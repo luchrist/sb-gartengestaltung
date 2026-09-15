@@ -1,0 +1,101 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/projekte/gartenanlage-mit-pool-und-naturstein-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenanlage mit Pool und Naturstein",
+    "subjectSlug": "gartenanlage-mit-pool-und-naturstein",
+    "description": "Ein wunderschön angelegter Garten mit einem kleinen Pool, Natursteintreppen und vielfältiger Bepflanzung unter einem bewölkten Himmel."
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/projekte/garten-mit-wasserbecken-und-steintreppe-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Wasserbecken und Steintreppe",
+    "subjectSlug": "garten-mit-wasserbecken-und-steintreppe",
+    "description": "Ein gepflegter Garten mit einem kleinen Wasserbecken, Natursteintreppen und abwechslungsreicher Bepflanzung."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/projekte/gartenanlage-mit-natursteintreppe-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenanlage mit Natursteintreppe",
+    "subjectSlug": "gartenanlage-mit-natursteintreppe",
+    "description": "Ein neu angelegter Gartenbereich mit Natursteintreppe, Trockenmauer und bepflanzten Beeten."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/projekte/garten-mit-poolanlage-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Poolanlage",
+    "subjectSlug": "garten-mit-poolanlage",
+    "description": "Ein angelegter Garten mit einem rechteckigen Pool und Natursteinumrandung."
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/projekte/moderner-vorgarten-mit-pflasterung-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Moderner Vorgarten mit Pflasterung",
+    "subjectSlug": "moderner-vorgarten-mit-pflasterung",
+    "description": "Ein neu gestalteter Vorgarten mit grauem Pflasterweg, Zierkies und einer Steinbank vor einem Wohnhaus."
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/details/natursteinpflasterweg-mit-treppe-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Natursteinpflasterweg mit Treppe",
+    "subjectSlug": "natursteinpflasterweg-mit-treppe",
+    "description": "Ein gepflasterter Weg aus Natursteinquadern führt an einer Bepflanzung und einer Granittreppe entlang."
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/projekte/gartenanlage-mit-natursteinweg-und-palmen-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenanlage mit Natursteinweg und Palmen",
+    "subjectSlug": "gartenanlage-mit-natursteinweg-und-palmen",
+    "description": "Ein neu angelegter Gartenbereich mit einem geschwungenen Natursteinweg, einer grünen Rasenfläche und einem bepflanzten Beet mit Palmen."
+  },
+  {
+    "originalFile": "api-07.jpg",
+    "file": "photos/projekte/gartenweg-mit-trittsteinen-und-kies-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenweg mit Trittsteinen und Kies",
+    "subjectSlug": "gartenweg-mit-trittsteinen-und-kies",
+    "description": "Ein geschwungener Gartenweg aus Naturstein-Trittsteinen auf einem Bett aus rotem Kies, umgeben von grünen Pflanzen und Hecken."
+  },
+  {
+    "originalFile": "api-08.jpg",
+    "file": "photos/projekte/gartenanlage-mit-pool-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenanlage mit Pool",
+    "subjectSlug": "gartenanlage-mit-pool",
+    "description": "Ein schön angelegter Garten mit einem kleinen Pool, Steintreppen und vielfältiger Bepflanzung unter bewölktem Himmel."
+  },
+  {
+    "originalFile": "api-09.jpg",
+    "file": "photos/projekte/dunkler-holzzaun-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Dunkler Holzzaun",
+    "subjectSlug": "dunkler-holzzaun",
+    "description": "Ein dunkelbrauner Holzzaun mit glänzender Oberfläche steht vor einer vielfältigen Bepflanzung mit roten und grünen Blättern."
+  },
+  {
+    "originalFile": "api-10.jpg",
+    "file": "photos/projekte/gartenweg-mit-natursteinmauern-und-hochbeet-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenweg mit Natursteinmauern und Hochbeet",
+    "subjectSlug": "gartenweg-mit-natursteinmauern-und-hochbeet",
+    "description": "Ein gepflasterter Gartenweg wird von Natursteinmauern und einem bepflanzten Hochbeet gesäumt, mit einem Briefkasten im Hintergrund."
+  }
+]

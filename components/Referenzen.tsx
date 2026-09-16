@@ -16,21 +16,10 @@ export function Referenzen() {
   return (
     <section id="referenzen" className="relative bg-creme py-28 md:py-40">
       <div className="mx-auto max-w-[1400px] px-6 md:px-10">
-        <div className="grid grid-cols-12 items-end gap-6 border-b border-ink/15 pb-12">
-          <div className="col-span-12 md:col-span-8">
-            <div className="flex items-center gap-3 font-mono text-[11px] uppercase tracking-[0.22em] text-ink/55">
-              <span className="marker" />
-              <span>Referenzen</span>
-            </div>
-            <h2 className="mt-6 font-display text-[32px] leading-[1.05] tracking-tight text-ink sm:text-[40px] md:text-[58px]">
-              Vorher, nachher, <span className="italic text-laub-500">nachvollziehbar.</span>
-            </h2>
-          </div>
-          <div className="col-span-12 md:col-span-4">
-            <p className="text-[15px] leading-relaxed text-ink/65 md:text-right">
-              Echte Projekte aus Bad Dürkheim und der Vorderpfalz, mit Ort und Leistung. Wo ein Vorher-Foto vorliegt, lässt es sich per Regler mit dem fertigen Zustand vergleichen.
-            </p>
-          </div>
+        <div className="border-b border-ink/15 pb-12">
+          <h2 className="font-display text-[32px] leading-[1.05] tracking-tight text-ink sm:text-[40px] md:text-[58px]">
+            Unsere Referenzen
+          </h2>
         </div>
 
         <div className="mt-14 grid grid-cols-1 gap-x-10 gap-y-16 lg:grid-cols-2">
